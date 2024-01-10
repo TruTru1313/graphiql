@@ -1,5 +1,6 @@
 {
   "npm.packageManager": "yarn",
   "editor.formatOnSave": true,
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "typescript.disableAutomaticTypeAcquisition": true
 }
