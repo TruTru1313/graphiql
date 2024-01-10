@@ -2,5 +2,27 @@
   "npm.packageManager": "yarn",
   "editor.formatOnSave": true,
   "files.insertFinalNewline": true,
-  "typescript.disableAutomaticTypeAcquisition": true
+  "typescript.disableAutomaticTypeAcquisition": false,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.columnSelection": true,
+  "editor.defaultColorDecorators": true,
+  "editor.definitionLinkOpensInPeek": true,
+  "editor.experimental.asyncTokenizationLogging": true,
+  "editor.experimental.asyncTokenizationVerification": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.formatOnPaste": true,
+  "diffEditor.experimental.showMoves": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "multiDiffEditor.experimental.enabled": true,
+  "editor.minimap.autohide": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "workbench.editor.sharedViewState": true,
+  "workbench.editor.wrapTabs": true,
+  "workbench.settings.useSplitJSON": true,
+  "screencastMode.keyboardOptions": {
+    "showCommandGroups": true
+  },
+  "typescript.tsserver.nodePath": "'node'"
 }
